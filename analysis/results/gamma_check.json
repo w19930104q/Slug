@@ -1,0 +1,9 @@
+{
+ "gamma": 2.2,
+ "gamma_roundtrip_residual_max": 1.1102230246251565e-16,
+ "slug_weight_sqrt_vs_gamma_encode": {
+  "mean_abs": 0.020809357710392325,
+  "max_abs": 0.0350493836921596,
+  "note": "SLUG_WEIGHT \u7684 sqrt() \u4e0e 1/2.2 gamma \u7f16\u7801\u7684\u504f\u5dee\uff1b\u5b83\u662f\u6709\u610f\u7684\u5149\u5b66\u52a0\u7c97\uff0c\u4e0d\u662f\u7ebf\u6027\u5149\u64cd\u4f5c"
+ }
+}
